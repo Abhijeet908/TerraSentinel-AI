@@ -1,0 +1,20 @@
+{
+  "title": "Brahmaputra Basin Seasonal Inundation & Recession",
+  "is_synthetic": true,
+  "is_real_satellite": false,
+  "data_tier": "Synthetic Calibration Benchmark",
+  "category": "Flooding & Water-Body Changes",
+  "location_name": "Assam Floodplain Basin Simulation",
+  "sensor_name": "Synthetic 3-Band Optical Calibration Model",
+  "date_before": "2024-04-10",
+  "date_after": "2024-07-22",
+  "dates": {
+    "t0_baseline": "2024-04-10 (Pre-Monsoon)",
+    "t1_event": "2024-07-22 (Peak Inundation)",
+    "t2_recovery": "2024-10-15 (Post-Monsoon Recession)"
+  },
+  "approx_resolution_m": 15.0,
+  "spatial_calibration_confirmed": false,
+  "temporal_sequence_available": true,
+  "description": "Synthetic benchmark modeling 3-stage temporal dynamics: dry floodplain baseline -> catastrophic monsoon inundation -> seasonal water recession (transient reversal)."
+}

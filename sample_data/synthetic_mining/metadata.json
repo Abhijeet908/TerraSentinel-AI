@@ -1,0 +1,15 @@
+{
+  "title": "Open-Cast Pit Excavation & Exposed Soil",
+  "is_synthetic": true,
+  "is_real_satellite": false,
+  "data_tier": "Synthetic Calibration Benchmark",
+  "category": "Excavation & Exposed Soil",
+  "location_name": "Pilbara Mineral Province Simulation",
+  "sensor_name": "Synthetic 3-Band Optical Calibration Model",
+  "date_before": "2023-11-05",
+  "date_after": "2024-05-18",
+  "approx_resolution_m": 5.0,
+  "spatial_calibration_confirmed": false,
+  "temporal_sequence_available": false,
+  "description": "Synthetic benchmark modeling open-cast terraced excavation exposing subsoil minerals."
+}

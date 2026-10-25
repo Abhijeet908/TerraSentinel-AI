@@ -1,0 +1,15 @@
+{
+  "title": "Zero-Anomaly Baseline Stability Control",
+  "is_synthetic": true,
+  "is_real_satellite": false,
+  "data_tier": "Synthetic Calibration Benchmark",
+  "category": "No Significant Change (Control)",
+  "location_name": "Serengeti Conservation Buffer Simulation",
+  "sensor_name": "Synthetic 3-Band Optical Calibration Model",
+  "date_before": "2024-03-01",
+  "date_after": "2024-03-15",
+  "approx_resolution_m": 10.0,
+  "spatial_calibration_confirmed": false,
+  "temporal_sequence_available": false,
+  "description": "Synthetic control benchmark with zero genuine land-cover modification and standard sensor noise to verify false-positive rejection."
+}

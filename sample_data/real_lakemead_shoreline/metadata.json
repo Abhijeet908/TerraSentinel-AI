@@ -1,0 +1,22 @@
+{
+  "title": "Lake Mead Shoreline Recession & Drought (NASA/USGS Landsat)",
+  "is_synthetic": false,
+  "is_real_satellite": true,
+  "data_tier": "Real Earth Observation Satellite Imagery",
+  "category": "Shoreline & Water-Body Depletion",
+  "location_name": "Lake Mead Reservoir, Nevada-Arizona Border, USA",
+  "coordinates": {
+    "lat": 36.14,
+    "lon": -114.43
+  },
+  "sensor_name": "Landsat 7 ETM+ (2000) / Landsat 8/9 OLI (2022)",
+  "date_before": "2000-07-06",
+  "date_after": "2022-07-03",
+  "approx_resolution_m": 30.0,
+  "spatial_calibration_confirmed": true,
+  "temporal_sequence_available": false,
+  "source": "NASA Earth Observatory (Image Record 150111)",
+  "source_url": "https://earthobservatory.nasa.gov/images/150111/lake-mead-keeps-dropping",
+  "attribution": "NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey (USGS). Public Domain.",
+  "description": "Authentic 22-year Landsat comparison documenting drastic water shrinkage and the prominent white mineralized 'bathtub ring' along the receding shoreline."
+}

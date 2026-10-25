@@ -1,0 +1,12 @@
+{
+  "title": "Baseline Stability Control Benchmark",
+  "category": "No Significant Change (Control)",
+  "date_before": "2024-03-01",
+  "date_after": "2024-03-15",
+  "location_name": "Serengeti Conservation Buffer",
+  "sensor_name": "Synthetic RGB Optical Calibration Model",
+  "approx_resolution_m": 10.0,
+  "is_synthetic": true,
+  "description": "Control dataset with stable canopy and natural sensor calibration noise to verify false-alarm rejection.",
+  "license": "CC-BY 4.0 (Synthetic Hackathon Benchmark)"
+}

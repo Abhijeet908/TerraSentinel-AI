@@ -1,0 +1,26 @@
+{
+  "title": "Kerala Monsoon Floods & Inundation (NASA Earth Observatory EO 92669)",
+  "is_synthetic": false,
+  "is_real_satellite": true,
+  "data_tier": "Real Earth Observation Satellite Imagery",
+  "category": "Flooding & Water Expansion",
+  "location_name": "Kuttanad & Vembanad Lake Region, Kerala, India",
+  "coordinates": {
+    "lat": 9.58,
+    "lon": 76.45
+  },
+  "sensor_name": "Landsat 8 OLI & Copernicus Sentinel-2 MSI (NASA/USGS/ESA)",
+  "dates": {
+    "t0_baseline": "2018-02-06",
+    "t1_event": "2018-08-22"
+  },
+  "date_before": "2018-02-06",
+  "date_after": "2018-08-22",
+  "approx_resolution_m": 30.0,
+  "spatial_calibration_confirmed": true,
+  "temporal_sequence_available": false,
+  "source": "NASA Earth Observatory (Image Record 92669: Before and After the Kerala Floods)",
+  "source_url": "https://earthobservatory.nasa.gov/images/92669/before-and-after-the-kerala-floods",
+  "attribution": "NASA Earth Observatory images by Lauren Dauphin, using modified Copernicus Sentinel data (2018) processed by the European Space Agency and Landsat data from USGS. Public Domain.",
+  "description": "Authentic multi-sensor satellite surveillance capturing catastrophic monsoon inundation across the Kuttanad agricultural basin and Vembanad Lake corridor in August 2018 compared to dry-season baseline in February 2018."
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Rond\u00f4nia Amazon Rainforest Deforestation (NASA Terra MODIS)",
+  "is_synthetic": false,
+  "is_real_satellite": true,
+  "data_tier": "Real Earth Observation Satellite Imagery",
+  "category": "Deforestation & Land Clearing",
+  "location_name": "Rond\u00f4nia State, Southern Amazon Basin, Brazil",
+  "coordinates": {
+    "lat": -10.5,
+    "lon": -62.5
+  },
+  "sensor_name": "MODIS on NASA's Terra Satellite",
+  "dates": {
+    "t0_baseline": "2000-07-30",
+    "t1_intermediate": "2006-07-17",
+    "t2_target": "2012-07-18"
+  },
+  "date_before": "2000-07-30",
+  "date_after": "2012-07-18",
+  "approx_resolution_m": 250.0,
+  "spatial_calibration_confirmed": true,
+  "temporal_sequence_available": true,
+  "source": "NASA Earth Observatory (World of Change: Amazon Deforestation)",
+  "source_url": "https://earthobservatory.nasa.gov/world-of-change/Deforestation",
+  "attribution": "NASA Earth Observatory images by Jesse Allen, using data from the Level 1 and Atmosphere Archive and Distribution System (LAADS) and the Land Processes DAAC. Public Domain.",
+  "description": "Authentic multi-year satellite observation tracking systematic fishbone road expansion and massive tropical canopy removal in the Brazilian Amazon."
+}

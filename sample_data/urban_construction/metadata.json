@@ -1,0 +1,12 @@
+{
+  "title": "Industrial Logistics Facility Expansion",
+  "category": "Construction & Infrastructure Alteration",
+  "date_before": "2023-08-12",
+  "date_after": "2024-06-20",
+  "location_name": "Inland Logistics Corridor",
+  "sensor_name": "Synthetic RGB Optical Calibration Model",
+  "approx_resolution_m": 5.0,
+  "is_synthetic": true,
+  "description": "Synthetic benchmark modeling new rectilinear building construction and asphalt paving over scrubland.",
+  "license": "CC-BY 4.0 (Synthetic Hackathon Benchmark)"
+}

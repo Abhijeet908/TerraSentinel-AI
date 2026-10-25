@@ -1,0 +1,27 @@
+{
+  "title": "Yellowstone Historic Wildfire Burn Scar & 20-Year Recovery",
+  "is_synthetic": false,
+  "is_real_satellite": true,
+  "data_tier": "Real Earth Observation Satellite Imagery",
+  "category": "Wildfire Burn Scar & Forest Disturbance",
+  "location_name": "Yellowstone National Park, Wyoming, USA",
+  "coordinates": {
+    "lat": 44.428,
+    "lon": -110.588
+  },
+  "sensor_name": "Landsat 5 TM & Landsat 7 ETM+ (NASA/USGS)",
+  "dates": {
+    "t0_baseline": "1987-08-05",
+    "t1_event": "1989-08-02",
+    "t2_recovery": "2010-08-04"
+  },
+  "date_before": "1987-08-05",
+  "date_after": "1989-08-02",
+  "approx_resolution_m": 30.0,
+  "spatial_calibration_confirmed": true,
+  "temporal_sequence_available": true,
+  "source": "NASA Earth Observatory (World of Change: Burn Recovery in Yellowstone)",
+  "source_url": "https://science.nasa.gov/earth/earth-observatory/world-of-change/burn-recovery-in-yellowstone/",
+  "attribution": "NASA Earth Observatory images by Jesse Allen, using Landsat data from the USGS Earth Resources Observation and Science (EROS) Center. Public Domain.",
+  "description": "Authentic multi-decadal satellite observation of the catastrophic 1988 Yellowstone fires which burned nearly 800,000 acres, followed by post-fire burn scar mapping and natural forest regeneration."
+}

@@ -1,0 +1,60 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit secrets & local config
+.streamlit/secrets.toml
+.streamlit/*.local.toml
+
+# Environment variables & local credentials
+.env
+.env.*
+!.env.example
+
+# Temporary output reports & generated artifacts
+reports/*
+!reports/.gitkeep
+temp/
+*.pdf
+*.html.tmp
+*.log
+
+# Caches & Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
